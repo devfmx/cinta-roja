@@ -1,6 +1,6 @@
 # Clases de cinta roja #
 
-**Para ver mas información de cada calse entra a cada una de las carpetas**
+**Para ver mas información de cada clase entra a cada una de las carpetas**
 
 Puedes clonar este repositorio pegando la siguiente linea en tu temrinal.
 

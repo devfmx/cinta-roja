@@ -54,6 +54,7 @@ const numero = 10 //number
 //     }
 // }
 
+//Listas
 // const lista = []
 // let lista2 = [1,3,"asd","kj","kpr",false,true]
 // console.log(lista);
