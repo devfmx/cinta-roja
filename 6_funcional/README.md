@@ -1,4 +1,4 @@
-# React #
+# Funcional #
 
 ***¿Qué es?***
 

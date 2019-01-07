@@ -1,4 +1,4 @@
-# React #
+# Express y mongo (mongoose) #
 
 ***¿Qué es?***
 
