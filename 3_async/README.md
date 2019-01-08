@@ -13,11 +13,18 @@ La programación asíncrona nos da la capacidad de “diferir” la ejecución d
 
 **Callback:** Un callback no es más que una función que se pasa como argumento de otra función, y que será invocada para completar algún tipo de acción. En nuestro contexto asíncrono, un callback representa el *¿Qué quieres hacer una vez que tu operación asíncrona termine?*.  
 
-**Pila de ejecución:** La pila de llamadas o *Call Stack* es una estructura de datos que registra básicamente en qué parte del programa estamos. Si entramos en una función, la colocamos en la parte superior de la pila. Si regresamos de una función, salimos de la parte superior de la pila. Eso es todo lo que la pila puede hacer.
+```javascript
+function foo(callback) { 
+   //do something
+   callback();
+}
+```
 
-**Cola de ejecución:** 
+**Pila de llamadas:** La pila de llamadas o *Call Stack* es una estructura de datos que registra básicamente en qué parte del programa estamos. Si entramos en una función, la colocamos en la parte superior de la pila. Si regresamos de una función, salimos de la parte superior de la pila. Eso es todo lo que la pila puede hacer.
 
-**Eventloop:**
+**Cola de ejecución:** Cada vez que nuestro programa recibe una notificación del exterior o de otro contexto distinto al de la aplicación (como es el caso de operaciones asíncronas), el mensaje se inserta en una cola de mensajes pendientes y se registra su callback correspondiente. Recordemos que un callback era la *función que se ejecutará como respuesta*.
+
+**Eventloop:** Cuando la pila de llamadas (call stack) se vacía, es decir, no hay nada más que ejecutar, se procesan los mensajes de la cola. Con cada *tick* del bucle de eventos, se procesa un nuevo mensaje. Este procesamiento consiste en llamar al callback asociado a cada mensaje lo que dará lugar a un nuevo frame en la pila de llamadas. Este frame inicial puede derivar en muchos más, todo depende del contenido del callback. Un mensaje se termina de procesar cuando la pila vuleve a estar vacía de nuevo. A este comportamiento se le conoce como *run-to-completion*.
 
 ***Quiero saber mas...***
 (https://www.todojs.com/controlar-la-ejecucion-asincrona/)
