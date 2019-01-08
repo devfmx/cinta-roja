@@ -2,7 +2,6 @@
 
 ***¿Qué es?***
 
-Contenido
 Un objeto es una colección de propiedades, y una propiedad es una asociación entre un nombre y un valor. Un valor de propiedad puede ser una función, la cual es conocida entonces como un método del objeto.
 **En JavaScript, casi todo es un objeto.**
 
