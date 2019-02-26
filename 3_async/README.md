@@ -27,6 +27,10 @@ function foo(callback) {
 
 **Eventloop:** Cuando la pila de llamadas (call stack) se vacía, es decir, no hay nada más que ejecutar, se procesan los mensajes de la cola. Con cada *tick* del bucle de eventos, se procesa un nuevo mensaje. Este procesamiento consiste en llamar al callback asociado a cada mensaje lo que dará lugar a un nuevo frame en la pila de llamadas. Este frame inicial puede derivar en muchos más, todo depende del contenido del callback. Un mensaje se termina de procesar cuando la pila vuleve a estar vacía de nuevo. A este comportamiento se le conoce como *run-to-completion*.
 
+***Diapositivas***
+
+[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/3_async/JS_ASYNC.pdf)
+
 ***Quiero saber mas...***
 (https://www.todojs.com/controlar-la-ejecucion-asincrona/)
 

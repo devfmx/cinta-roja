@@ -23,6 +23,13 @@ Bajo el capó, map pasa tres argumentos a tu callback:
 [1, 2, 3, 4, 5, 6].filter(x => x % 2 === 0); // [2, 4, 6]
 
 ```
+
+
+***Diapositivas***
+
+[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/6_funcional/Funcional.pdf)
+
+
 ***Quiero saber mas...***
 
 (https://lemoncode.net/lemoncode-blog/2017/9/5/introduccion-programacion-funcional-javascript)

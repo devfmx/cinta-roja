@@ -65,6 +65,11 @@ Esto indica un conflicto. Por ejemplo, está utilizando una solicitud PUT para c
 Cuando todo lo demás falla; En general, se utiliza una respuesta 500 cuando el procesamiento falla debido a circunstancias imprevistas en el lado del servidor, lo que provoca el error del servidor.
 
 
+***Diapositivas***
+
+[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/4_peticiones/Peticiones.pdf)
+
+
 ***Quiero saber mas...***
 
 (https://michelletorres.mx/peticiones-http-get-post-put-delete-etc/)
