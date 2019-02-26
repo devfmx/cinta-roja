@@ -21,6 +21,10 @@ En pocas palabras permite manipular la base de datos por medio de objetos, estos
 >Es un Object Document Mapper (ODM). Esto significa que Mongoose le permite definir objetos con un esquema fuertemente tipado que se asigna a un documento MongoDB.
 
 
+***Diapositivas***
+
+[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/8_backend_mongo/Base_de_datos.pdf)
+
 ***Quiero saber mas...***
 (https://mongoosejs.com/docs/guide.html)
 

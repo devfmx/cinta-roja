@@ -32,6 +32,11 @@ promise
   .catch(error => console.error(error));
 ```
 
+***Diapositivas***
+
+[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/5_promesas/Promesas.pdf)
+
+
 ***Conceptos***
 
 **Callback hell**

@@ -36,6 +36,10 @@ React utiliza el llamado HTML virtual DOM, el cual se renderiza mucho más rapid
 >Un componente en react es un pedazo de nuestra vista por ejemplo la navbar esta se encapsula en un componente y esto te da la capacidad de poder reutilizarlo las veces que sea necesraio sin necesidad de volver a escribir código.
 
 
+***Diapositivas***
+
+[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/9_my-first-react-app/React.pdf)
+
 
 ***Quiero saber mas...***
 

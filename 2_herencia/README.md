@@ -43,6 +43,10 @@ En esta estructura jerárquica, cada clase tiene sólo una clase padre. La clase
 
 **Sustitución Liskov** El principio de sustitución de Liskov nos dice que si en alguna parte de nuestro código estamos usando una clase, y esta clase es extendida, debe ser posible utilizar cualquiera de las clases hijas y que el programa siga siendo válido. Esto nos obliga a asegurarnos de que cuando extendemos una clase no estamos alterando el comportamiento del padre.
 
+***Diapositivas***
+
+[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/2_herencia/Herencia.pdf)
+
 ***Quiero saber mas...***
 
 (https://code.tutsplus.com/es/tutorials/inheritance-and-extending-objects-with-javascript--cms-29836)
