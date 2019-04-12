@@ -19,4 +19,4 @@
 ***Funciones***
 >Funciones Una función es una sección de código que realiza una tarea específica, y que puede ser llamada desde otra función. 
 
-[ReplIT Code view](https://repl.it/@EduDevf/clase0repaso)
+[Replit Code view](https://repl.it/@EduDevf/clase0repaso) {.replit}
