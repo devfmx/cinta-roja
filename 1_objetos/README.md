@@ -34,7 +34,7 @@ class Poligono {
   }
 };
 ```
-
+[Replit Code view](https://repl.it/@EduDevf/clase0repaso "replit") 
 ***Conceptos***
 
 **Contructor:** El método constructor es un método especial para crear e inicializar un objeto creado con una clase. Solo puede haber un método especial con el nombre "constructor" en una clase. Si esta contiene mas de una ocurrencia del método constructor, se arrojará un Error SyntaxError
