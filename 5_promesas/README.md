@@ -31,6 +31,7 @@ promise
   .then(number => console.log(number))
   .catch(error => console.error(error));
 ```
+[Prueba aqui](https://repl.it/@EduDevf/5promesas "replit")
 
 ***Diapositivas***
 
