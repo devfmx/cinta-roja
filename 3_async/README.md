@@ -20,6 +20,7 @@ function foo(callback) {
    callback();
 }
 ```
+[Prueba aqui](https://repl.it/@EduDevf/3async "replit")
 
 **Pila de llamadas:** La pila de llamadas o *Call Stack* es una estructura de datos que registra básicamente en qué parte del programa estamos. Si entramos en una función, la colocamos en la parte superior de la pila. Si regresamos de una función, salimos de la parte superior de la pila. Eso es todo lo que la pila puede hacer.
 
