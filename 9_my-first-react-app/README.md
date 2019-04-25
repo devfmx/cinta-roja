@@ -8,6 +8,7 @@ React.js está construido en torno a hacer funciones, que toman las actualizacio
 React utiliza el llamado HTML virtual DOM, el cual se renderiza mucho más rapido que el HTML tradiccional ya que no se calculan sus estilos CSS. Cuando el virtual DOM cambia se genera uno nuevo y se calcula las diferencias con el anterior virtual DOM. Por último React genera los cambios pertinentes en el HTML.
 
 
+[Prueba aqui](https://repl.it/@EduDevf/firstreactApp "replit")
 
 
 ***Conceptos***
