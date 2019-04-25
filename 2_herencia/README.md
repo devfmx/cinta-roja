@@ -30,6 +30,8 @@ class Circle extends Shape {
 let circle = new Circle(1,2,3);
 ```
 
+[Prueba aqui](https://repl.it/@EduDevf/herencia)
+
 ***Conceptos***
 
 **Clase padre o super clase:** El concepto de herencia conduce a una estructura jerárquica de clases o estructura de árbol, lo cual significa que en la Programación Orientada a Objetos todas las relaciones entre clases deben ajustarse a dicha estructura. 
