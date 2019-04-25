@@ -4,6 +4,8 @@
 Protocolo de transferencia de hipertexto (HTTP) es la vida de la web. Se utiliza cada vez que se transfiere un documento o se realiza una solicitud.
 ![alt-text](https://vignette.wikia.nocookie.net/central/images/b/b2/Cliente-servidor-http.png/revision/latest?cb=20170829163147)
 
+[Prueba aqui](https://repl.it/@EduDevf/4peticiones "replit")
+
 
 ***Conceptos***
 
