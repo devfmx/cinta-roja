@@ -129,6 +129,7 @@ Libro.find({}, function(err, libros) {
     }
 }]
 ```
+[Prueba aqui](https://repl.it/@EduDevf/81expressbackendmongopopulation "replit")
 
 ***Quiero saber mas...***
 (https://medium.com/@nicknauert/mongooses-model-populate-b844ae6d1ee7)
