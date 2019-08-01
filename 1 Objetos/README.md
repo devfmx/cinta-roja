@@ -56,7 +56,6 @@ class Poligono {
 ***Quiero saber más...***
 
 (https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Trabajando_con_objectos)
-
 (https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Classes)
 (https://developer.mozilla.org/es/docs/Web/JavaScript/Introducci%C3%B3n_a_JavaScript_orientado_a_objetos)
 (http://www.etnassoft.com/2016/12/02/introduccion-a-la-poo-en-javascript-moderno-las-nuevas-clases-en-es6/)

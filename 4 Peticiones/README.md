@@ -72,10 +72,8 @@ Cuando todo lo demás falla; En general, se utiliza una respuesta 500 cuando el 
 [**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/4_peticiones/Peticiones.pdf)
 
 
-***Quiero saber mas...***
+***Quiero saber más...***
 
 (https://michelletorres.mx/peticiones-http-get-post-put-delete-etc/)
-
 (https://code.tutsplus.com/es/tutorials/a-beginners-guide-to-http-and-rest--net-16340)
-
 (https://developer.mozilla.org/es/docs/Web/HTTP/Methods)

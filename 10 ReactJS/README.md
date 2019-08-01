@@ -42,7 +42,7 @@ React utiliza el llamado HTML virtual DOM, el cual se renderiza mucho más rápi
 [**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/9_my-first-react-app/React.pdf)
 
 
-***Quiero saber mas...***
+***Quiero saber más...***
 
 (https://desarrolloweb.com/articulos/que-es-react-motivos-uso.html)
 (https://devcode.la/blog/como-funciona-reactjs/)

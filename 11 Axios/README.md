@@ -2,7 +2,7 @@
 
 ![alt-text](https://cdn-images-1.medium.com/max/2000/1*q9CRTmO258jWLsMZAd5JLw.png)
 
-[Prueba aqui](https://repl.it/@EduDevf/reactauthorsapp "replit")
+[Prueba aquí](https://repl.it/@EduDevf/reactauthorsapp "replit")
 
 ***Conceptos***
 
@@ -10,5 +10,5 @@
 >Axios es una biblioteca de JavaScript que facilita las peticiones http, regresando un promesa.
 
 
-***Quiero saber mas...***
+***Quiero saber más...***
 (https://github.com/axios/axios)

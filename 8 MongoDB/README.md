@@ -3,7 +3,7 @@
 ***¿Qué es?***
 Tenemos el Backend enfocado en hacer que todo lo que está detrás de un sitio web funcione correctamente. Toma los datos, los procesa y los envía al usuario, además de encargarse de las consultas o peticiones a la Base de Datos, la conexión con el servidor, entre otras tareas que debe realizar en su día a día. Cuenta con una serie de lenguajes y herramientas que le ayudan a  cumplir con su trabajo como PHP, Ruby, Python, JavaScript, SQL, MongoDB, MySQL, etc, estos son usados para crear sitios dinámicos. En muchos sitios la información se encuentra en constante cambio o actualización, una buena capacidad de respuesta y una velocidad óptima del sitio son responsabilidades que un backend debe de afrontar.
 
-[Prueba aqui](https://repl.it/@EduDevf/8expressbackendmongo "replit")
+[Prueba aquí](https://repl.it/@EduDevf/8expressbackendmongo "replit")
 
 ***Conceptos***
 
@@ -27,7 +27,7 @@ En pocas palabras permite manipular la base de datos por medio de objetos, estos
 
 [**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/8_backend_mongo/Base_de_datos.pdf)
 
-***Quiero saber mas...***
+***Quiero saber más...***
 (https://mongoosejs.com/docs/guide.html)
 (https://www.genbeta.com/desarrollo/mongodb-que-es-como-funciona-y-cuando-podemos-usarlo-o-no)
 (https://www.genbeta.com/desarrollo/el-concepto-nosql-o-como-almacenar-tus-datos-en-una-base-de-datos-no-relacional)

@@ -49,12 +49,9 @@ En esta estructura jerárquica, cada clase tiene sólo una clase padre. La clase
 
 [**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/2_herencia/Herencia.pdf)
 
-***Quiero saber mas...***
+***Quiero saber más...***
 
 (https://code.tutsplus.com/es/tutorials/inheritance-and-extending-objects-with-javascript--cms-29836)
-
 (https://es.wikipedia.org/wiki/Herencia_(inform%C3%A1tica))
-
 (https://desarrolloweb.com/articulos/herencia-clases-javascript-ecmascript.html)
-
 (https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Operadores/super)

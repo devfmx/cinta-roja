@@ -11,7 +11,7 @@ BrowserRouter, Route, Switch, Redirect, y Link, son los componentes más básico
 
 
 
-***Quiero saber mas...***
+***Quiero saber más...***
 
 (https://medium.com/@shmesa23/enrutando-en-react-cd9e4ad6e3d3)
 (https://github.com/ReactTraining/react-router)

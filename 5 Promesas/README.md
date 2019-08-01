@@ -44,6 +44,6 @@ promise
 >El callback Hell se produce cuando encadenamos muchas operaciones asíncronas seguidas.
 >![alt-text](https://cdn-images-1.medium.com/max/2000/1*nREYTp-1WUnDmz3YXabNsg.png)
 
-***Quiero saber mas...***
+***Quiero saber más...***
 
 (https://medium.com/@jmz12/callbacks-promesas-y-async-await-que-alguien-me-explique-514137cb57e2)

@@ -20,7 +20,7 @@ function foo(callback) {
    callback();
 }
 ```
-[Prueba aqui](https://repl.it/@EduDevf/3async "replit")
+[Prueba aquí](https://repl.it/@EduDevf/3async "replit")
 
 **Pila de llamadas:** La pila de llamadas o *Call Stack* es una estructura de datos que registra básicamente en qué parte del programa estamos. Si entramos en una función, la colocamos en la parte superior de la pila. Si regresamos de una función, salimos de la parte superior de la pila. Eso es todo lo que la pila puede hacer.
 
@@ -32,9 +32,7 @@ function foo(callback) {
 
 [**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/3_async/JS_ASYNC.pdf)
 
-***Quiero saber mas...***
+***Quiero saber más...***
 (https://www.todojs.com/controlar-la-ejecucion-asincrona/)
-
 (https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono)
-
 (https://medium.com/laboratoria-how-to/programacion-asincrona-cea3bad7c3c6)

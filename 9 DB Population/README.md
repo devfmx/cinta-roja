@@ -131,6 +131,6 @@ Libro.find({}, function(err, libros) {
 ```
 [Prueba aquí](https://repl.it/@EduDevf/81expressbackendmongopopulation "replit")
 
-***Quiero saber mas...***
+***Quiero saber más...***
 (https://medium.com/@nicknauert/mongooses-model-populate-b844ae6d1ee7)
 (https://carlosazaustre.es/como-relacionar-tus-modelos-en-mongodb/)
