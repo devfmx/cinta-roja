@@ -4,7 +4,7 @@
 Protocolo de transferencia de hipertexto (HTTP) es la vida de la web. Se utiliza cada vez que se transfiere un documento o se realiza una solicitud.
 ![alt-text](https://vignette.wikia.nocookie.net/central/images/b/b2/Cliente-servidor-http.png/revision/latest?cb=20170829163147)
 
-[Prueba aqui](https://repl.it/@EduDevf/4peticiones "replit")
+[Prueba aquí](https://repl.it/@EduDevf/4peticiones "replit")
 
 
 ***Conceptos***
@@ -72,10 +72,8 @@ Cuando todo lo demás falla; En general, se utiliza una respuesta 500 cuando el 
 [**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/4_peticiones/Peticiones.pdf)
 
 
-***Quiero saber mas...***
+***Quiero saber más...***
 
 (https://michelletorres.mx/peticiones-http-get-post-put-delete-etc/)
-
 (https://code.tutsplus.com/es/tutorials/a-beginners-guide-to-http-and-rest--net-16340)
-
 (https://developer.mozilla.org/es/docs/Web/HTTP/Methods)

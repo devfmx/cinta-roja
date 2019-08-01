@@ -24,15 +24,14 @@ Bajo el capó, map pasa tres argumentos a tu callback:
 
 ```
 
-[Prueba aqui](https://repl.it/@EduDevf/6funcional "replit")
+[Prueba aquí](https://repl.it/@EduDevf/6funcional "replit")
 
 ***Diapositivas***
 
 [**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/6_funcional/Funcional.pdf)
 
 
-***Quiero saber mas...***
+***Quiero saber más...***
 
 (https://lemoncode.net/lemoncode-blog/2017/9/5/introduccion-programacion-funcional-javascript)
-
 (https://elabismodenull.wordpress.com/2016/11/10/programacion-funcional-en-javascript-los-metodos-funcionales/)

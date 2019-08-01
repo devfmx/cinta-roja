@@ -1,7 +1,7 @@
 # Repaso del cinta blanca solo Javascript
 
 ***Variables***
->En programación, las variables son espacios reservados en la memoria que, como su nombre indica, pueden cambiar de contenido a lo largo de la ejecución de un programa. En ella puedes almacenar algun dato.
+>En programación, las variables son espacios reservados en la memoria que, como su nombre indica, pueden cambiar de contenido a lo largo de la ejecución de un programa. En ella puedes almacenar algún dato.
 
 
 ***Estructuras de control***
