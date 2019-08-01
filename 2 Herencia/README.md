@@ -30,7 +30,7 @@ class Circle extends Shape {
 let circle = new Circle(1,2,3);
 ```
 
-[Prueba aqui](https://repl.it/@EduDevf/clase2herencia "replit")
+[Prueba aquí](https://repl.it/@EduDevf/clase2herencia "replit")
 
 ***Conceptos***
 

@@ -24,7 +24,7 @@ Bajo el capó, map pasa tres argumentos a tu callback:
 
 ```
 
-[Prueba aqui](https://repl.it/@EduDevf/6funcional "replit")
+[Prueba aquí](https://repl.it/@EduDevf/6funcional "replit")
 
 ***Diapositivas***
 

@@ -44,7 +44,7 @@ class Poligono {
 
 **this:** Para trabajar con propiedades dentro de la clase se utiliza la palabra reservada this , que se refiere al objeto actual. El acceso (lectura o escritura) a una propiedad desde fuera de la clase se hace con la sintaxis: `NombreDeLaInstancia.Propiedad`. Desde dentro de la clase la sintaxis es `this.Propiedad` que se utiliza para obtener o establecer el valor de la propiedad).
 
-**Metodos:** Algoritmo asociado a un objeto (o a una clase de objetos), cuya ejecución se desencadena tras la recepción de un "mensaje". Desde el punto de vista del comportamiento, es lo que el objeto puede hacer. 
+**Métodos:** Algoritmo asociado a un objeto (o a una clase de objetos), cuya ejecución se desencadena tras la recepción de un "mensaje". Desde el punto de vista del comportamiento, es lo que el objeto puede hacer. 
 
 **Instancia:** En los lenguajes de programación orientada a objetos un objeto es una instancia de una clase. Esto es, un miembro de una clase que tiene atributos en lugar de variables. En un contexto del mundo real, podríamos pensar en "Casa" como una clase y en un chalet como una instancia de esta e incluso otro chalet u otro tipo de casa como puede ser un apartamento como otra instancia
 
@@ -53,7 +53,7 @@ class Poligono {
 [**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/1_objetos/Objetos.pdf)
 
 
-***Quiero saber mas...***
+***Quiero saber más...***
 
 (https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Trabajando_con_objectos)
 

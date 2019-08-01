@@ -12,7 +12,7 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
 var autorSchema = new Schema({
-	nombre: String,
+    nombre: String,
     biografia: String,
     fecha_de_nacimiento: Date,
     nacionalidad: String
@@ -28,7 +28,7 @@ var Schema = mongoose.Schema;
 var Autor = mongoose.model('Autor');
 
 var libroSchema = new Schema({
-	titulo: String
+    titulo: String
     paginas: Number,
     isbn: String,
     autor: { type: Schema.ObjectId, ref: "Autor" } 
@@ -40,7 +40,7 @@ module.exports = mongoose.model("Libro", libroSchema);
 El query si treaemos todos se vería de la siguiente manera
 ```javascript
 Libro.find({}, function(err, libros) {
-    	res.status(200).send(libros)
+        res.status(200).send(libros)
     });
 ```
 
@@ -76,8 +76,8 @@ En el campo autor obtenemos la referencia en formato ObjectID del autor, pero no
 
 ```javascript
 Libro.find({}, function(err, libros) {
-    	Autor.populate(libros, {path: "autor"},function(err, libros){
-        	res.status(200).send(libros);
+        Autor.populate(libros, {path: "autor"},function(err, libros){
+            res.status(200).send(libros);
         }); 
     });
 ```
@@ -90,7 +90,7 @@ Libro.find({}, function(err, libros) {
     "paginas": 150,
     "isbn": "0-553-57340-4", 
     "autor": {
-    	"_id": "547db17cbe9958b000001",
+        "_id": "547db17cbe9958b000001",
         "__v": 0,
         "nombre": "George R. R. Martin",
         "biografia": "American novelist...",
@@ -105,7 +105,7 @@ Libro.find({}, function(err, libros) {
     "paginas": 340,
     "isbn": "0-553-57340-5",
     "autor": {
-    	"_id": "547db17cbe9958b000001",
+        "_id": "547db17cbe9958b000001",
         "__v": 0,
         "nombre": "George R. R. Martin",
         "biografia": "American novelist...",
@@ -120,7 +120,7 @@ Libro.find({}, function(err, libros) {
     "paginas": 620,
     "isbn": "0-553-57340-7",
     "autor": {
-    	"_id": "547db17cbe9958b000001",
+        "_id": "547db17cbe9958b000001",
         "__v": 0,
         "nombre": "George R. R. Martin",
         "biografia": "American novelist...",
@@ -129,7 +129,7 @@ Libro.find({}, function(err, libros) {
     }
 }]
 ```
-[Prueba aqui](https://repl.it/@EduDevf/81expressbackendmongopopulation "replit")
+[Prueba aquí](https://repl.it/@EduDevf/81expressbackendmongopopulation "replit")
 
 ***Quiero saber mas...***
 (https://medium.com/@nicknauert/mongooses-model-populate-b844ae6d1ee7)
