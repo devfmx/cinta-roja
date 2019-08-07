@@ -1,4 +1,4 @@
-# React Router#
+# React Router #
 
 ***¿Qué es?***
 React Router nos provee todos los componentes necesarios para hacer que nuestra SPA (single page application) se mantenga en sincronía con nuestra locación actual.
