@@ -19,7 +19,7 @@ Empresas grandes como Netflix, Paypal, Uber, LinkedIn o Ebay utilizan NodeJS par
 
 ![alt text](https://m.coruscatesolution.com/wp-content/uploads/2018/06/How-Top-Global-Companies-are-Using-Node.js-to-Scale-their-Business-1.png)
 
-** npm **
+**npm**
 
 NodeJS viene integrado con un manejador de paquetes, este se llama npm (Node Package Manager), este manejador de paquetes nos ayudará a instalar dependencias necesarias para nuestras aplicaciones.
 
