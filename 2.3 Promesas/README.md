@@ -35,7 +35,7 @@ promise
 
 ***Diapositivas***
 
-[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/5_promesas/Promesas.pdf)
+[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/2.3%20%Promesas/Promesas.pdf)
 
 
 ***Conceptos***

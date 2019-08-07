@@ -47,7 +47,7 @@ En esta estructura jerárquica, cada clase tiene sólo una clase padre. La clase
 
 ***Diapositivas***
 
-[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/2_herencia/Herencia.pdf)
+[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/1.3%20%Herencia/Herencia.pdf)
 
 ***Quiero saber más...***
 
