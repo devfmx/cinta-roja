@@ -1,5 +1,6 @@
 # Scope #
 
+
 ***¿Qué es?***
 Cuando hablamos del Scope de una variable, nos referimos al alcance que tiene respecto al sitio donde se esté haciendo uso de la misma. Veamos un ejemplo:
 
