@@ -50,7 +50,7 @@ class Poligono {
 
 ***Diapositivas***
 
-[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/1_objetos/Objetos.pdf)
+[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/1.2 Objetos/Objetos.pdf)
 
 
 ***Quiero saber más...***
