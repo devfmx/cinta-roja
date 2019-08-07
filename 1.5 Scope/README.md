@@ -2,7 +2,9 @@
 
 ***¿Qué es?***
 
-Cuando hablamos del Scope de una variable, nos referimos al alcance que tiene respecto al sitio donde se esté haciendo uso de la misma. Veamos un ejemplo:
+Cuando hablamos del Scope de una variable, nos referimos al alcance que tiene respecto al sitio donde se esté haciendo uso de la misma. 
+
+Veamos un ejemplo:
 
 ```
 {
@@ -18,7 +20,7 @@ El resultado de la siguiente línea de código es:
 undefined
 ```
 
-Sucede ésto ya que la constante programa está definida dentro de un bloque de código definido por las llaves. Un ejemplo muy parecido lo hemos encontrado en funciones.
+Sucede esto ya que la constante programa está definida dentro de un bloque de código definido por las llaves. Un ejemplo muy parecido lo hemos encontrado en funciones.
 
 ```
 function cinta() {
@@ -89,7 +91,7 @@ Se definió nuevamente la constante color dentro de la función, sin embargo al 
 
 El uso de variables globales se considera una mala práctica de desarrollo, además de que esto puede hacer nuestro código un poco confuso, también es posible que pueda generar efectos secundarios dentro de nuestras funciones.
 
-Entendamos este concepto con una metáfora, imagina que cada función es una persona, ¿te gustaría compartir tu cepillo de dientes con distintas personas? lo correcto es que cada persona tenga su cepillo de dientes y le de un uso adecuado.
+Entendamos este concepto con una metáfora, imagina que cada función es una persona, ¿te gustaría compartir tu cepillo de dientes con distintas personas? lo correcto es que cada persona tenga su cepillo de dientes con sus propias características.
 
 Recuerda cepillarte los dientes tres veces al día.
 
