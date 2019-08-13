@@ -30,7 +30,7 @@ function foo(callback) {
 
 ***Diapositivas***
 
-[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/1.4%20%Async/JS_ASYNC.pdf)
+[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/1.4%20Async/JS_ASYNC.pdf)
 
 ***Quiero saber más...***
 (https://www.todojs.com/controlar-la-ejecucion-asincrona/)

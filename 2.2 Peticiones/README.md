@@ -69,7 +69,7 @@ Cuando todo lo demás falla; En general, se utiliza una respuesta 500 cuando el 
 
 ***Diapositivas***
 
-[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/2.2%20%Peticiones/Peticiones.pdf)
+[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/2.2%20Peticiones/Peticiones.pdf)
 
 
 ***Quiero saber más...***

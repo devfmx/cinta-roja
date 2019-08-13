@@ -19,7 +19,7 @@ Tenemos el Backend enfocado en hacer que todo lo que está detrás de un sitio w
 ![alt-text](https://static1.squarespace.com/static/555dc243e4b0fa866e3e41a9/t/5926bcdf9de4bbba0f69cd10/1495710948784/)
 
 
-[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/2.5%20%Express/React.pdf)
+[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/2.5%20Express/Express.pdf)
 
 
 ***Quiero saber más...***

@@ -28,7 +28,7 @@ Bajo el capó, map pasa tres argumentos a tu callback:
 
 ***Diapositivas***
 
-[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/2.4%20%Funcional/Funcional.pdf)
+[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/2.4%20Funcional/Funcional.pdf)
 
 
 ***Quiero saber más...***
