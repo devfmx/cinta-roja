@@ -25,7 +25,7 @@ En pocas palabras permite manipular la base de datos por medio de objetos, estos
 
 ***Diapositivas***
 
-[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/8_backend_mongo/Base_de_datos.pdf)
+[**Descargar diapositivas**](https://raw.githubusercontent.com/devfmx/cinta-roja/master/3.1%20%MongoDB/Base_de_datos.pdf)
 
 ***Quiero saber más...***
 (https://mongoosejs.com/docs/guide.html)
