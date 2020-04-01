@@ -52,7 +52,7 @@ let peticionLibro = (titulo) => {
             JSON.parse(body)                      
                 .docs                             
                 .map(doc =>                    
-                    doc.author_name           
+                    !doc.author_name ? console.log('No tiene author_name') : doc.author_name          
                         .map(author_name =>  
                             console.log(author_name))   
                     
@@ -61,7 +61,7 @@ let peticionLibro = (titulo) => {
     });
 }
 
-//peticionLibro("por quien doblan las campanas");
+peticionLibro("i+robot");
 
 
 /*
